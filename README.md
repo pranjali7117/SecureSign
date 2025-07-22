@@ -3,7 +3,7 @@
 A modern, full-stack authentication demo built with **Node.js**, **Express**, **MongoDB**, **JWT**, and **React**.
 Showcases secure user flows, backend best practices, and a beautiful, interactive UI.
 
-![Landing Page Screenshot](./frontend/public/Screenshot 2025-07-22 174514.png)
+![Landing Page Screenshot](./frontend/public/Securesign.png)
 
 ---
 

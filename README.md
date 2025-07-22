@@ -124,7 +124,7 @@ Auth/
 
 | Landing Page | Login | Dashboard |
 |--------------|-------|-----------|
-| ![Landing](./frontend/public/screenshot-for-readme.png) | ![Login](./frontend/public/screenshot-for-readme.png) | ![Dashboard](./frontend/public/screenshot-for-readme.png) |
+| ![SIGNUP](./frontend/public/landing.png) | ![LOGIN](./frontend/public/login.png) |
 
 ---
 
